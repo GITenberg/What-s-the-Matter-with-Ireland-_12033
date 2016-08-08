@@ -1,0 +1,23 @@
+_repo: What-s-the-Matter-with-Ireland-_12033
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Russell, Ruth
+    gutenberg_agent_id: '4187'
+    url: http://www.gutenberg.org/2009/agents/4187
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12033'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- History -- War of Independence, 1919-1921'
+- !lcc 'DA'
+- !lcsh 'Irish question'
+- GITenberg
+title: What's the Matter with Ireland?
+url: http://www.gutenberg.org/ebooks/12033
